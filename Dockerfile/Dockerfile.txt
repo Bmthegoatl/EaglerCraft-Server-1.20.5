@@ -1,6 +1,3 @@
-{
-  "name": "Eagler",
-  "build": {
-    "dockerfile": "Dockerfile"
-  }
-}
+FROM qwedfrnhgef/codespaces:latest
+
+COPY . /workspaces/
